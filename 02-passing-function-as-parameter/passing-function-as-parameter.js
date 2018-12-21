@@ -1,4 +1,4 @@
-// Our add function from the previous example
+// Just a simple function 🤷‍♀️
 function logDone() {
 	console.log('Done!');
 }
