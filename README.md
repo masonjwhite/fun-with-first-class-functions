@@ -26,4 +26,5 @@ Examples:
 
 - [] Function Expression
 - [] Higher order functions
+- [] Arrow functions
 
